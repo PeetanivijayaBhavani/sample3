@@ -1,0 +1,18 @@
+/*h1{
+    color:blueviolet;
+
+}*/
+.navigation #h{
+    background-color:blue;
+    border: 5px solid yellow;
+    margin:50px;
+    padding:20px 10px 30px 15px;
+}
+table,tr,td,th{
+    border:1px solid black;
+   
+    border-collapse: collapse;
+}
+tr:nth-child(even){
+background-color:greenyellow;
+}
